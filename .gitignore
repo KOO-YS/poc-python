@@ -1,0 +1,7 @@
+.idea/
+venv/
+streamlit-doc.iml
+
+secret.toml
+# commit 되지 않았으므로 Streamlit Community Cloud에 별도로 전달이 필요
+# App Dashboard > Edit Secrets
