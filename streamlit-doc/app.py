@@ -1,12 +1,7 @@
 import streamlit as st
+from utils.login import check_password
 
-# Add a title to your app
-st.title("Login")
+if not check_password():
+    st.stop()
 
-# Add some text input
-user_id = st.text_input("Enter ID:")
-
-# Display the input
-st.write(f"You entered: {user_id}")
-
-
+st.write("SUCCESS - Login")

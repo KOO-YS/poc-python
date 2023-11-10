@@ -22,10 +22,11 @@ streamlit hello
 https://streamlit.io/
 
 ## Document in Detail
-- [Login 1](https://docs.streamlit.io/knowledge-base/deploy/authentication-without-sso)
-  - [Manage Secrets](https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app/secrets-management)
-- [Login 2](https://blog.streamlit.io/streamlit-authenticator-part-1-adding-an-authentication-component-to-your-app/)
-
+- [Structuring multipage](https://docs.streamlit.io/library/get-started/multipage-apps)
+- [Theme](https://docs.streamlit.io/library/advanced-features/theming)
+- [Login](https://docs.streamlit.io/knowledge-base/deploy/authentication-without-sso)
+  - [Keep : Manage Secrets](https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app/secrets-management)
+- [Chatbot](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
 
 
 ### App in Gallery
